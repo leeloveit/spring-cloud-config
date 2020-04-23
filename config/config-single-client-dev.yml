@@ -3,4 +3,4 @@ data:
   env: dev
   user:
     username: lihaibing
-    password: 12345678
+    password: 12345
